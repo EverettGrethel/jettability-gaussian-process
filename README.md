@@ -1,2 +1,2 @@
 ## Description
-Uncertainty modeling of a latent space with Gaussian process regression.
+Uncertainty modeling of a latent space for fluid jettability.
